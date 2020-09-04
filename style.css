@@ -1,0 +1,52 @@
+*{
+    margin: 5px;
+}
+.images {
+    width: 200px;
+    height: 200px;
+}
+
+.error_msg {
+    color: red;
+    opacity: 0.5;
+}
+#header{
+    background: rgb(63, 129, 150);
+    height: 100px;
+    text-align: center;
+    background-image: url(./images/2014-july-30-net-art-history-3.gif);
+
+}
+#h1text{
+    padding-top: 20px;
+    color: rgb(26, 43, 16);
+    size: 200px;
+}
+.container{
+    background-color: rgb(183, 229, 250);
+    height: 1500px !important;
+    width: 100% !important ;
+}
+#img_number{
+    width: 100px;
+    color: green;
+}
+#searshText{
+    color: green;
+}
+#btn{
+    width: 100px !important;
+    height: 30px !important;
+    background-image: url(./images/2014-july-30-net-art-history-3.gif);
+}
+#my_footer{
+    
+    height: 100px;
+    text-align: right;
+    background-image: url(./images/2014-july-30-net-art-history-3.gif);
+
+}
+#Author{
+    padding-top: 10px;
+    padding-right: 10px;
+}
